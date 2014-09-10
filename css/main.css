@@ -1,5 +1,5 @@
 body {
-	background-image: url("../img/grey.png");
+	background-image: url("../../img/grey.png");
 	font-family: arial, helvetica, sans-serif;
 }
 
@@ -27,7 +27,7 @@ p {
 	border: 5px solid limegreen;
 	border-radius: 15px;
 	padding: 5px;
-	background-image: url("../img/brown.png");
+	background-image: url("../../img/brown.png");
 }
 
 .menu li ul {
