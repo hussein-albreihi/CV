@@ -33,7 +33,7 @@ p {
 .menu li ul {
 	display: block;
 	border: 5px solid limegreen;
-	background-image: url("../img/brown.png"); 
+	background-image: url("../../img/brown.png"); 
 }
 
 .center {
@@ -41,7 +41,7 @@ p {
 	width: 900px;
 	margin-right: auto;
 	margin-left: auto;
-	background-image: url("../img/brown.png");
+	background-image: url("../../img/brown.png");
 	box-shadow: 20px 20px 10px #333333;
 	border-radius: 15px;
 	overflow: scroll;
