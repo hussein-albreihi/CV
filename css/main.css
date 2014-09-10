@@ -1,5 +1,5 @@
 body {
-	background-image: url("img/grey.png");
+	background-image: url("../img/grey.png");
 	font-family: arial, helvetica, sans-serif;
 }
 
@@ -27,13 +27,13 @@ p {
 	border: 5px solid limegreen;
 	border-radius: 15px;
 	padding: 5px;
-	background-image: url("img/brown.png");
+	background-image: url("../img/brown.png");
 }
 
 .menu li ul {
 	display: block;
 	border: 5px solid limegreen;
-	background-image: url("img/brown.png"); 
+	background-image: url("../img/brown.png"); 
 }
 
 .center {
@@ -41,7 +41,7 @@ p {
 	width: 900px;
 	margin-right: auto;
 	margin-left: auto;
-	background-image: url("img/brown.png");
+	background-image: url("../img/brown.png");
 	box-shadow: 20px 20px 10px #333333;
 	border-radius: 15px;
 	overflow: scroll;
